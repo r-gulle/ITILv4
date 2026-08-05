@@ -6,7 +6,8 @@ Module 1: ITIL 4 Overview
 Introduction to ITIL
 Key Concepts of ITIL
 
-
+ITIL - Information Technology Infrastructure Library
+based on the results-based management doctrine, which states that corporate plans and strategies should be measurable to determine if they have been successful
 
 
 
@@ -15,6 +16,8 @@ Module 2: The ITIL Framework
 -----------------------------
 The Four Dimensions of Service Management
 The ITIL Service Value System
+
+
 
 
 
@@ -34,3 +37,9 @@ Keep it Simple and Practical
 Optimize and Automate
 
 
+
+Module 4: The ITIL Service Value System
+-----------------------------------------
+Governance
+The Service Value Chain
+Continual Improvement
