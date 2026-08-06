@@ -1,0 +1,35 @@
+VSA: AI-assisted Technical Quotation Verification
+Value: Reduction in manual comparison effort by 80%
+VSA Steps:
+1. Receive the technical evaluation request from the purchasing team, including the approved specifications andthree supplier quotations.
+2. Upload the supplier quotations and approved technical specifications into the approved AI tool.
+3. Perform an automated comparison of each supplier quotation against the approved technical specifications and identify compliance, ommissions, and notable differences among vendors.
+4. Review and validate the AI-generated comparison report, and add professional recommendations where necessary.
+5. Submit the finalized technical comparison and recommendation report to the Purchasing Team.
+6. Archive the finalized report and supporting documents for future reference, audits, and continual improvement.
+
+
+VSA: USB Restriction Exemption Request
+Value: 0 Unauthorized USB access.
+VSA Steps: 
+1. Receive the USB restriction exception request from an APAC office.
+2. Verify that the request contains the required information (hostname, user, and purpose)
+3. Register the endpoint hostname and request details in the P-CAT system.
+4. Submit the reuqest through P-CAT for approval by the APAC Regional IT Director.
+5. The APAC Regional IT Director reviews and approves or rejects the request.
+6. If approved, tag the request and forward to the HQ PIC responsible for endpoint security policy management.
+7. HQ PIC updates the USB restriction policy and implements the approved exception.
+8. Recotd the completion status and retain the request and approval records for audit purposes.
+9. Update the requestor.
+
+
+VSA: IT Investment Plan Review and Prioritization
+Value: 100% of proposed items assigned an estimated unit price
+VSA Steps: 
+1. Receive annual IT investment plans from each department.
+2. Consolidate all submitted investment plans into a single master investment list.
+3. Review each proposed investment item and determine an estimated unit price based on historical purchases, market quotations, or available pricing references.
+4. Evaluate each investment item based on business necessity, technical requirements, and implementation priority
+5. Identify items recommended for removal, deferment, or retention and document the justication for each recommendation.
+6. Submit the reviewed and prioritized investment plan to the Finance Manager for budget simulation and financial analysis.
+7. Received budget simulation results and prepare for management discussion and final investment planning.+
